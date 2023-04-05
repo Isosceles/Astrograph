@@ -1,4 +1,7 @@
 # Astrograph
+
+![Specimen of Astrograph](documentation/AstrographSpecimen.png)
+
 A typeface inspired by the lettering on Starfleet vessels.
 
 Throughout the Star Trek franchise, a handful of typeface families have been used for the name and registration numbers displayed on the hulls of Starfleet starships. One of the most recognizable and commonly used is based on Aldo Novarese's Microgramma, which was originally designed in 1952.
